@@ -1,0 +1,30 @@
+{
+  "name": "field-service-platform",
+  "version": "1.0.0",
+  "description": "Multi-tenant B2B Field Service Management Platform",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "field-service",
+    "management",
+    "platform",
+    "b2b",
+    "multi-tenant"
+  ],
+  "author": "agniananda",
+  "license": "MIT"
+}
